@@ -1,6 +1,6 @@
 # EmailApp
 
-Email ApplicationScenario: 
+# Email ApplicationScenario: 
 
 You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.This application  
 does the following:

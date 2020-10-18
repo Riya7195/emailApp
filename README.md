@@ -1,4 +1,4 @@
-# emailApp
+# EmailApp
 
 Email ApplicationScenario: 
 
